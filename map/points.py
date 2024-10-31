@@ -1,6 +1,6 @@
 import numpy as np
 from stl import mesh
-
+fdg
 def extraer_puntos_unicos(ruta_archivo_stl, ruta_salida='puntos_unicos.csv'):
     """
     Carga un archivo STL, extrae los vértices únicos en 3D y los guarda en un archivo CSV.
