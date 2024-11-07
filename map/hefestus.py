@@ -62,3 +62,6 @@ for numero_capa, caras_capa in sorted(capas.items()):
     plt.pause(1)  # Pausa de 1 segundo antes de mostrar la siguiente capa
 
 plt.close()  # Cerrar la figura después de mostrar todas las capas
+
+
+# prueba de visualizacion de cambio s
